@@ -1,7 +1,7 @@
 # test coverage for  [svgo (v0.7.2)](https://github.com/svg/svgo)  [![npm package](https://img.shields.io/npm/v/npmtest-svgo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svgo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svgo.svg)](https://travis-ci.org/npmtest/node-npmtest-svgo)
 #### Nodejs-based tool for optimizing SVG vector graphics files
 
-[![NPM](https://nodei.co/npm/svgo.png?downloads=true)](https://www.npmjs.com/package/svgo)
+[![NPM](https://nodei.co/npm/svgo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/svgo)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-svgo/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-svgo/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-svgo/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-svgo/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-svgo/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-svgo/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-svgo/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-svgo/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-svgo/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-svgo/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-svgo%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-svgo/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-svgo/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-svgo/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-svgo/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-svgo%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-svgo/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-svgo/build/test-report.html](https://npmtest.github.io/node-npmtest-svgo/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-svgo/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-svgo/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-svgo/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-svgo/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-svgo/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-svgo/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-svgo/build/screenCapture.npmPackageListing.svg)
 
@@ -28,25 +34,21 @@
 {
     "author": {
         "name": "Kir Belevich",
-        "email": "kir@soulshine.in",
         "url": "https://github.com/deepsweet"
     },
     "bin": {
         "svgo": "./bin/svgo"
     },
     "bugs": {
-        "url": "https://github.com/svg/svgo/issues",
-        "email": "kir@soulshine.in"
+        "url": "https://github.com/svg/svgo/issues"
     },
     "contributors": [
         {
             "name": "Sergey Belov",
-            "email": "peimei@ya.ru",
             "url": "http://github.com/arikon"
         },
         {
             "name": "Lev Solntsev",
-            "email": "lev.sun@ya.ru",
             "url": "http://github.com/GreLI"
         }
     ],
@@ -91,17 +93,14 @@
     "main": "./lib/svgo.js",
     "maintainers": [
         {
-            "name": "deepsweet",
-            "email": "kir@soulshine.in"
+            "name": "deepsweet"
         },
         {
-            "name": "greli",
-            "email": "grelimail@gmail.com"
+            "name": "greli"
         }
     ],
     "name": "svgo",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/svg/svgo.git"
