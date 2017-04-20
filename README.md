@@ -1,4 +1,7 @@
-# test coverage for  [svgo (v0.7.2)](https://github.com/svg/svgo)  [![npm package](https://img.shields.io/npm/v/npmtest-svgo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svgo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svgo.svg)](https://travis-ci.org/npmtest/node-npmtest-svgo)
+# npmtest-svgo
+
+#### basic test coverage for  [svgo (v0.7.2)](https://github.com/svg/svgo)  [![npm package](https://img.shields.io/npm/v/npmtest-svgo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svgo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svgo.svg)](https://travis-ci.org/npmtest/node-npmtest-svgo)
+
 #### Nodejs-based tool for optimizing SVG vector graphics files
 
 [![NPM](https://nodei.co/npm/svgo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/svgo)
